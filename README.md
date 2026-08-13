@@ -103,9 +103,9 @@ CGPA: **8.56/10** (till 4th semester)
 - 🎤 Attended the **AI Summit at Microsoft**
 - ⚙️ **Executive Member** — Utkarsh Technical Society
 - 🤝 Associated with **CSI (Computer Society of India)**
-- 🤝 **Member** — IEEE
+- 🤝 **Member** — IEEE IRO and Website Team
 - 🎪 Organized **Droid 7.0** & **Droid 8.0**
-- 🎉 Organized **IEEE Day 2025**
+- 🎉 **Cultural Head** — IEEE Day 2025 - Led the planning and execution of cultural and social engagement activities
 - 💃 Former member — **Silver Steppers** classical dance team
 
 ---
