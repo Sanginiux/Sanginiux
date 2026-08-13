@@ -1,521 +1,233 @@
-<h1 align="center">
-  Hi 👋, I'm Sangini Garg
-</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence & Deep Learning Student • Java Developer • Python Programmer • Machine Learning Enthusiast
-</h3>
+# Hi, I'm Sangini Garg 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Java+%7C+Python;Open+Source+Learner;Hackathon+Enthusiast;IEEE+Computer+Society+Secretary;Always+Learning+Something+New+🚀" />
-</p>
+### Computer Science Engineering Student | AI & Deep Learning Specialization
 
----
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Software Development**, **Data Analytics**, **Open Source**, and **Sustainable Technology**. I love building projects that solve real-world problems and constantly learning new things along the way.
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangini-garg/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanginigarg12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanginiux)
 
-<img src="https://komarev.com/ghpvc/?username=Sanginiux&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Sanginiux?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Sanginiux?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## 🎓 Education
 
-🎓 **B.Tech Computer Science Engineering (Artificial Intelligence & Deep Learning)**
-
-🏫 **Mody University of Science and Technology**
-
-📍 Rajasthan, India 🇮🇳
+**B.Tech in Computer Science Engineering (Artificial Intelligence & Deep Learning)**
+Mody University of Science and Technology | 2024 – 2028
+CGPA: **8.56/10** (till 4th semester)
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Java Development
-- Python
-- SQL
-- Cybersecurity
-
----
-
-### 💡 Interests
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Development
-- 🌍 Sustainable Technology
-- 📊 Data Analytics
+- 🤖 Machine Learning & Deep Learning
+- 🧮 Data Structures & Algorithms
+- ☕ Java Development
+- 🐍 Python
+- 🗄️ SQL
 - 🔐 Cybersecurity
-- 🚀 Open Source
 
 ---
 
-### 🎯 Current Goals
-
-✔ Strengthen Data Structures & Algorithms
-
-✔ Build impactful AI projects
-
-✔ Contribute to Open Source
-
-✔ Crack top internships
-
-✔ Prepare for GATE 2027
-
----
-
-### 🏆 Highlights
-
-🥇 IEEE Computer Society Secretary
-
-🏅 Finalist — Triwizardathon 1.0
-
-💚 Participant — AlgoVerse 2025
-
-💻 Passionate Java & Python Developer
-
-📚 Always exploring new technologies
-
----
-
-## 🚀 What I'm Working On
-
-- 🔭 AI & Machine Learning Projects
-- 💻 Banking Queue Management System
-- 📦 PackAware
-- 🌾 Agronomics
-- 📐 Mathematical Structures Visualizer
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/Sanginiux">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:sanginigarg12@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-<img src="https://skillicons.dev/icons?i=eclipse" height="55"/>
-<img src="https://skillicons.dev/icons?i=idea" height="55"/>
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
-
-</p>
-
----
-
-# 📚 Libraries & Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
-<img src="https://skillicons.dev/icons?i=flask" height="55"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
-
-</p>
-
----
-
-# 🛠️ Tools I Use
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CustomTkinter-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JDBC-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java%20Swing-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sanginiux&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanginiux&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🌾 Agronomics
-
-Machine Learning based crop price forecasting system developed to help farmers predict market trends using historical agricultural data.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Pandas`
-
-🔗 https://github.com/Sanginiux/AgroNomics_
-
-</td>
-
-<td width="50%">
-
-### 📦 PackAware
-
-A sustainability-focused application that analyzes plastic packaging and promotes environmentally friendly alternatives through data-driven insights.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy`
-
-🔗 https://github.com/Sanginiux/PackAware
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📐 MathVisualizer
-
-Java Swing desktop application for visualizing geometric structures and calculating area, perimeter, surface area, and volume with SQLite integration.
-
-**Tech Stack**
-
-`Java` `Swing` `SQLite`
-
-🔗 https://github.com/Sanginiux/MathVisualizer
-
-</td>
-
-<td width="50%">
-
-### 🏦 Banking Queue Management System
-
-Desktop application that simulates an intelligent banking queue with priority scheduling, analytics dashboard, and customer management.
-
-**Tech Stack**
-
-`Python`
-`CustomTkinter`
-`SQLite`
-
-</td>
-</tr>
-
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌾 Agronomics</h3>
+      <p>ML-based crop price forecasting project built to address unpredictable crop prices faced by farmers.</p>
+      <p><strong>Finalist — Triwizardathon 1.0</strong></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Sanginiux/Agronomics">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>♻️ PackAware</h3>
+      <p>Sustainability-focused tool that analyzes the environmental impact of product packaging — calculates plastic usage, assesses recyclability, and suggests eco-friendly alternatives.</p>
+      <p><strong>Built at AlgoVerse 2025</strong></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sustainability-2E7D32?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/Sanginiux/PackAware">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📐 MathVisualizer</h3>
+      <p>Desktop application for visualizing geometric shapes — calculates area, perimeter, surface area, and volume using Java Swing GUI and Graphics2D rendering.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swing-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Sanginiux/MathVisualizer">🔗 View Repository</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 🏆 Achievements
+## 💼 Experience
 
-🥇 Finalist — **Triwizardathon 1.0**
+**Artificial Intelligence (AI) Intern** — DecodeLabs *(Virtual)*
+🗓️ Jun 2026 – Jul 2026
+- Gained hands-on experience through real-world projects and collaborative tasks
+- Applied AI concepts to practical problem-solving
 
-🏅 Participant — **AlgoVerse 2025**
-
-🎖️ Internal Round Qualifier — **Smart India Hackathon**
-
-💼 Secretary — **IEEE Computer Society, Mody University**
-
-📚 Built multiple academic and personal software projects using Java and Python.
-
----
-
-# 🌱 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Deep Learning
-- 📊 Machine Learning
-- 🔐 Cybersecurity
-- 📈 Data Analytics
-- ☁️ Cloud Computing
-- 💻 Open Source Development
+**Artificial Intelligence Virtual Intern** — IBM *(via FSP)*
+🗓️ Feb 2026 – Mar 2026
+- Completed the internship successfully with a passing grade
+- Gained practical exposure to AI concepts through the IBM Developer Skills Network
 
 ---
 
-# 💼 Experience
+## 🏆 Achievements & Hackathons
 
-### 👩‍💻 IEEE Computer Society
-
-**Secretary**
-
-- Organized technical events and workshops.
-- Coordinated student activities.
-- Managed event planning and communication.
-- Promoted technical learning initiatives.
-
----
-
-# 📜 Certifications
-
-🏅 Microsoft Learn
-
-🏅 Oracle Java
-
-🏅 Python Programming
-
-🏅 Machine Learning Fundamentals
-
-*(Add your actual certifications here.)*
+- 🥈 **Semi-Finalist** — Flipkart GRiD 8.0 (Artificial Intelligence Track)
+- 🏅 **Finalist** — Triwizardathon 1.0
+- 🎯 **Internal Round Selection** — Smart India Hackathon (Sept 2025)
+- 🌍 **AlgoVerse 2025** — Developed *PackAware*
+- 🧑‍💻 **Contributor** — Open Source Connect India
+- 🧑‍💻 **Contributor** — GirlScript Summer of Code
+- 📜 **Certificate of Participation** — HackVega 2.0
 
 ---
 
-# 🎯 2026 Goals
+## 🌟 Leadership & Community
 
-- ✅ Reach 500+ GitHub Contributions
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Build AI-based Projects
-- ✅ Secure a Software Development Internship
-- ✅ Learn Advanced Machine Learning
+- 📌 **Secretary** — IEEE Computer Society Chapter
+- 🧠 **ML Mentee** — TechNeeds, IGDTUW
+- 🎤 Attended the **AI Summit at Microsoft**
+- ⚙️ **Executive Member** — Utkarsh Technical Society
+- 🤝 Associated with **CSI (Computer Society of India)**
+- 🤝 **Member** — IEEE
+- 🎪 Organized **Droid 7.0** & **Droid 8.0**
+- 🎉 Organized **IEEE Day 2025**
+- 💃 Former member — **Silver Steppers** classical dance team
 
 ---
 
-# 💡 Fun Fact
+## 🛠️ Tech Stack
+
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML & Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Core Foundations**
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Data Preprocessing` · `Supervised Learning` · `Data Visualization`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Sangini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanginiux&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanginiux&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Sanginiux?style=flat-square&color=blueviolet)
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sanginiux&theme=radical&no-frame=true&row=1&column=6)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![Sangini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&theme=redical&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Sanginiux/Sanginiux/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> **Note:** The snake animation above requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to be configured in this profile repository (`Sanginiux/Sanginiux`), which generates the SVG on a scheduled workflow run and pushes it to an `output` branch.
+
+---
+
+## 💬 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇧 English | Proficient |
+| 🇮🇳 Hindi | Native |
+| 🇩🇪 German | Basic |
+
+---
+
+## ⚡ Fun Fact
 
 ```python
 class Sangini:
-
     def __init__(self):
-        self.name = "Sangini Garg"
-        self.role = "AI & ML Student"
-        self.languages = ["Java", "Python", "C++"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Cybersecurity",
-            "Software Development"
-        ]
+        self.role = "CSE Student — AI & Deep Learning"
+        self.interests = ["AI", "ML", "Software Dev", "Data Analytics", "Open Source", "Sustainability"]
+        self.currently_learning = ["Deep Learning", "DSA", "Java", "Cybersecurity"]
 
-    def __str__(self):
-        return "Always learning, always building 🚀"
-
-print(Sangini())
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something meaningful! 🚀")
 ```
 
 ---
 
-# 💬 Favorite Quote
+## 🧭 Development Philosophy
 
-> **"The best way to predict the future is to create it."**
->
-> — Alan Kay
-
----
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Sanginiux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📊 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
-> **Note:** The snake animation won't appear immediately. You'll need to set up a GitHub Action to generate it automatically.
-
----
-
-# 💻 Development Philosophy
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Improve();
-
-    Share();
-
+```java
+while (alive) {
+    learn();
+    build();
+    improve();
+    share();
 }
 ```
 
 ---
 
-# ⚡ GitHub Contribution Summary
+<div align="center">
 
-- 💻 Building Java & Python applications
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Continuously learning new technologies
-- 🚀 Participating in Hackathons
-- 🤝 Contributing to Open Source
-- 📚 Solving Data Structures & Algorithms problems
+### 📫 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangini-garg/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanginigarg12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanginiux)
 
-# 🎓 Education
+⭐️ *Thanks for visiting my profile — feel free to explore my repositories!*
 
-**Bachelor of Technology (B.Tech)**
-
-**Computer Science Engineering (Artificial Intelligence & Deep Learning)**
-
-🏫 Mody University of Science and Technology
-
-Expected Graduation: **2028**
-
----
-
-# 📈 Current Focus
-
-```text
-Artificial Intelligence      ██████████░░ 80%
-
-Machine Learning             █████████░░░ 75%
-
-Java Development             ██████████░░ 85%
-
-Python                       ██████████░░ 90%
-
-SQL                           ████████░░░ 70%
-
-Data Structures              ████████░░░ 70%
-
-Cybersecurity                ██████░░░░░ 55%
-```
-
----
-
-# ✨ Thanks for Visiting!
-
-<p align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
-</p>
-
-
-<!--
-**Sanginiux/Sanginiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# 💯 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge"/>
-</a>
-
-</p>
--->
+</div>
