@@ -181,17 +181,6 @@ CGPA: **8.56/10** (till 4th semester)
 > **Note:** The snake animation above requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to be configured in this profile repository (`Sanginiux/Sanginiux`), which generates the SVG on a scheduled workflow run and pushes it to an `output` branch.
 
 ---
-
-## 💬 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Proficient |
-| 🇮🇳 Hindi | Native |
-| 🇩🇪 German | Basic |
-
----
-
 ## ⚡ Fun Fact
 
 ```python
