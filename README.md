@@ -45,7 +45,7 @@ CGPA: **8.56/10** (till 4th semester)
       <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <br/><br/>
-      <a href="https://github.com/Sanginiux/Agronomics">🔗 View Repository</a>
+      <a href="https://github.com/Sanginiux/AgroNomics_">🔗 View Repository</a>
     </td>
     <td width="33%" valign="top">
       <h3>♻️ PackAware</h3>
