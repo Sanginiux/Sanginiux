@@ -18,7 +18,6 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Softwa
 
 **B.Tech in Computer Science Engineering (Artificial Intelligence & Deep Learning)**
 Mody University of Science and Technology | 2024 – 2028
-CGPA: **8.56/10** (till 4th semester)
 
 ---
 
