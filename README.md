@@ -439,9 +439,9 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=94A3B8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=7C3AED&text_color=94A3B8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B&langs_count=8" />
 
 </div>
 
@@ -451,7 +451,7 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sanginiux&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=94A3B8&dates=64748B" />
+<img src="https://streak-stats.demolab.com?user=Sanginiux&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B" />
 
 </div>
 
@@ -467,11 +467,11 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&bg_color=00000000&color=94A3B8&line=7C3AED&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&bg_color=ffffff00&color=64748B&line=7C3AED&point=7C3AED&area=true&hide_border=true" />
 
 </div>
 
@@ -481,19 +481,12 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/output/github-contribution-grid-snake.svg" alt="Sangini's GitHub Contribution Snake" />
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake.svg">
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake.svg">
-
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -634,5 +627,6 @@ Learning, contributing, and building with the developer community.
 <div align="center">
 
 ### `Building today. Learning every day. Creating for tomorrow. 🚀`
+
 
 </div>
