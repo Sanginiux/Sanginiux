@@ -439,7 +439,9 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&bg_color=ffffff00&color=64748B&line=7C3AED&point=7C3AED&area=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B&langs_count=8" />
 
 </div>
 
@@ -479,11 +481,9 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Sanginiux/Sanginiux/output/github-contribution-grid-snake.svg" alt="Sangini's GitHub Contribution Snake" />
 
 </div>
-
-> **If the snake doesn't appear:** the GitHub Actions workflow needs to generate the SVG and push it to the `output` branch. The README cannot create the snake by itself.
 
 ---
 
