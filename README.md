@@ -439,9 +439,7 @@ My goal is to move from **understanding concepts → building systems → solvin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanginiux&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanginiux&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanginiux&bg_color=ffffff00&color=64748B&line=7C3AED&point=7C3AED&area=true&hide_border=true" />
 
 </div>
 
